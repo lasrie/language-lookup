@@ -7,7 +7,7 @@ const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
 });
 
-export default function Home() {
+export default function fetchProjects() {
 return ("yadada")
 
 
